@@ -29,4 +29,3 @@ python -m pytest            # offline tests
 
 Full documentation: [docs/explications.md](docs/explications.md).
 
-Educational prototype. Not financial advice.
